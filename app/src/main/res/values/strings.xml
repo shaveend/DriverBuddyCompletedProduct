@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">DriverBuddy</string>
+    <string name="welcome">Welcome</string>
+    <string name="app_logo">app_logo</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="user_password">User password</string>
+    <string name="my_account">My Account</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="driver_profile_logo">driver_profile_logo</string>
+    <string name="driver_s_name">Driver\'s Name</string>
+    <string name="driver_s_id">Driver\'s ID</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="distress">DISTRESS</string>
+    <string name="driver_profile">Driver Profile</string>
+    <string name="license_number">License Number</string>
+    <string name="email">Email</string>
+    <string name="pay_fine">Pay Fine</string>
+    <string name="report_accident">Report Accident</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="mobile">Mobile</string>
+    <string name="edit_profile_data">Edit Profile Data</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="home_name">Home</string>
+
+    //Police Officer
+    <string name="officer_s_id">Officer\'s Id</string>
+    <string name="officer_s_name">Officer\'s Name</string>
+    <string name="officer">Officer</string>
+    <string name="issue_fine_1">Issue Fine</string>
+    <string name="check_license">Check License</string>
+    <string name="distress_respond">Respond to distress driver</string>
+    <string name="edit_fine">Edit Fine</string>
+    <string name="fine_history_1">Fine History</string>
+    <string name="logout_1">Log Out</string>
+    <string name="check">Check</string>
+    <string name="track_driver">Track Driver</string>
+    <string name="ln">License Number</string>
+    <string name="update">Update Fine</string>
+    <string name="desc1">Enter the license number you want to check</string>
+    <string name="license">License</string>
+    <string name="title_activity_fine_history_officer">FineHistoryOfficer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_fine_officer">EditFineOfficer</string>
+    <string name="search_1">Search Fine History  by Driver's ID</string>
+
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="nic">NIC</string>
+    <string name="registration_no">Registration No</string>
+    <string name="user_id">User Id</string>
+    <string name="confirm">Confirm</string>
+    <string name="string_string_done">Done</string>
+    <string name="fine_history">Fine Histroy</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_drivers_maps">Map</string>
+
+</resources>

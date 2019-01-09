@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile">
+        <menu>
+            <group
+                android:id="@+id/fine_history"
+                android:checkableBehavior="single">
+
+                <item android:id="@+id/nav_fine_history"
+                    android:title="@string/fine_history_1"
+                    android:icon="@mipmap/fine_history"/>
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Fine">
+        <menu>
+            <group
+                android:id="@+id/edit_fine"
+                android:checkableBehavior="single">
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Account">
+        <menu>
+            <group
+                android:id="@+id/account_settings"
+                android:checkableBehavior="single">
+
+                <item android:id="@+id/nav_settings"
+                    android:icon="@mipmap/settings"
+                    android:title="Edit Profile"/>
+
+                <item android:id="@+id/nav_log_out"
+                    android:icon="@mipmap/log_out"
+                    android:title="@string/logout_1"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

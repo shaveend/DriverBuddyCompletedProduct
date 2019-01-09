@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    android:background="@drawable/background_image_1">
+
+
+    <TextView
+        android:id="@+id/textViewOffense"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:text="Offense"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textAlignment="center" />
+
+
+    <TextView
+        android:id="@+id/textViewAmount"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:text="Amount"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textViewOfficer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:text="Officer"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textViewTimestamp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:text="TimeStamp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textAlignment="center" />
+
+
+</LinearLayout>
